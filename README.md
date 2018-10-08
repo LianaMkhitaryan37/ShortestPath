@@ -1,6 +1,6 @@
 # ShortestPath
 Code finds shortest path in graph nodes(from start to end) , Nodes names are  numbers (first -1 , end- maximum number). Just give  the connection matrix
-## Example 0
+## Example
 !["graph"](https://image.ibb.co/mooDip/graph.png)
 !["input"](https://image.ibb.co/bWUaw9/input.png)
 !["matrix"](https://image.ibb.co/kvL4pU/matrix.png)
