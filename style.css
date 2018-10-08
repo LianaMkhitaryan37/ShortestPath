@@ -1,0 +1,45 @@
+div input {
+	margin-left: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #d1d1d1;
+    box-shadow: inset 1px 2px 8px rgba(0, 0, 0, 0.07);
+    color: #d6cfcf;
+    text-align: center;
+    outline: none;
+	padding: 2px;
+
+}
+div input::placeholder {
+  color: #9c9c9c;
+}
+
+body{
+	width: 50vw;
+    margin: 0px auto;
+}
+
+h1,p,label,td{
+	color: #9c9c9c;
+	font-family: Lato;
+}
+
+label,p{
+	text-align: left
+}
+.r-button{
+	background: #b9b7b7;
+    border: inherit;
+    padding: 10px 15px;
+    margin-left: 5px;
+    border-radius: 5px;
+    color: white;
+    text-transform: uppercase;
+    box-shadow: 1px 2px 4px 0px rgba(0,0,0,0.30);
+}
+#OptionBar{
+	height: 35px;
+    margin-left: 10px;
+    color: #9c9c9c;
+    border-color: #b9b7b7;
+    box-shadow: 1px 2px 4px 0px rgba(0,0,0,0.30);
+}
